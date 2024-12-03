@@ -1,4 +1,3 @@
-Here’s a comprehensive and well-structured `README.md` template for your anime recommendation system project:
 
 ```markdown
 # Anime Recommendation System
@@ -275,12 +274,3 @@ Authorization: Bearer <your-jwt-token>
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ```
-
-### Key Features of This README
-
-- **Project Overview**: Provides a brief summary of the application and its core functionality.
-- **Technologies Used**: Lists the main tools and technologies that the project uses.
-- **Setup and Installation**: Detailed instructions to run the project locally, including setting up the virtual environment, installing dependencies, and configuring the database.
-- **Docker Setup**: Instructions for running the project with Docker.
-- **Endpoints**: Lists all available API endpoints with request and response formats.
-- **Sample Requests and Responses**: Provides examples of how to interact with the API using Postman or other API tools.
